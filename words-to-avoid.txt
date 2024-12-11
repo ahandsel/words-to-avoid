@@ -30,8 +30,6 @@
 !below
 !bottom
 !down
-!forward
-!front
 !left
 !previous
 !right
