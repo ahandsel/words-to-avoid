@@ -1,0 +1,40 @@
+# Word list to trigger cspell flags
+
+# Time
+!later
+!previously
+
+# Pronouns
+!we
+
+# Shapes
+!circle
+!round
+!square
+
+# Color
+!black
+!blue
+!gray
+!green
+!orange
+!pink
+!purple
+!red
+!white
+!yellow
+
+# Location
+!above
+!behind
+!below
+!bottom
+!down
+!forward
+!front
+!left
+!previous
+!right
+!top
+!under
+!upper
